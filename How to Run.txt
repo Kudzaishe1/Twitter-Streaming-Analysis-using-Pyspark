@@ -1,0 +1,22 @@
+			INSTALLING IMPORTANT LIBRARIES
+
+Step 1: Open your terminal
+
+Step 2: Switch to the Twitter Streaming directory
+
+Step 3: Run the following in the terminal command: pip install -r requirements.txt
+
+
+			RUNNING THE FILES
+
+Step 1: Open your pyspark within a jupyter notebook environment
+
+Step 2: Run all cells in the TWITTER file first within the notebook
+
+Step 3: Once that is complete, run all the DB_SPARK_STREAM cells within the notebook
+
+			CHANGING THE PORT
+
+The port is currently set at 3000 however in the event of conflicting ports on your computer
+feel free to change the port number in both the TWITTER and the DB_SPARK_STREAM notebooks
+respectively. 

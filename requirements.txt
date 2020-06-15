@@ -1,0 +1,6 @@
+pyenchant
+urlextract
+tabulate
+tweepy
+profanity
+pandas
